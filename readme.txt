@@ -1,3 +1,10 @@
+What we have here is the Quake 2 game engine compiled in Visual Studio 2013 with the project files
+it works just needs to copy the baseq2 folder from your legit copy of quake 2 and you can play it now i'm not
+sure if i'm going to do anything else with this.
+
+Just thought it would be cool if some one would need an easier way to start game engine programming now.
+
+#### Original Read Me Begins #####
 
 This is the complete source code for Quake 2, version 3.19, buildable with
 visual C++ 6.0.  The linux version should be buildable, but we haven't
