@@ -1,3 +1,4 @@
+d:\quake2\quake-2\debug\ref_soft.bsc
 d:\quake2\quake-2\ref_soft\debug\vc120.pdb
 d:\quake2\quake-2\ref_soft\debug\vc120.idb
 d:\quake2\quake-2\ref_soft\debug\r_surf.sbr
@@ -44,13 +45,18 @@ d:\quake2\quake-2\ref_soft\debug\q_shwin.sbr
 d:\quake2\quake-2\ref_soft\debug\q_shared.sbr
 d:\quake2\quake-2\ref_soft\debug\q_shared.obj
 d:\quake2\quake-2\ref_soft\debug\q_shwin.obj
-d:\quake2\quake-2\debug\.obj
+d:\quake2\quake-2\debug\ref_soft.dll
+d:\quake2\quake-2\debug\ref_soft.pdb
+d:\quake2\quake-2\debug\ref_soft.lib
+d:\quake2\quake-2\debug\ref_soft.exp
+d:\quake2\quake-2\ref_soft\.\..\debug\ref_soft.dll
+d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\bscmake.command.1.tlog
+d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\bscmake.read.1.tlog
+d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\bscmake.write.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\cl.command.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\cl.read.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\cl.write.1.tlog
-d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\custombuild.command.1.tlog
-d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\custombuild.read.1.tlog
-d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\custombuild.write.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\link.command.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\link.read.1.tlog
 d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\link.write.1.tlog
+d:\quake2\quake-2\ref_soft\debug\ref_soft.tlog\ref_soft.write.1u.tlog
