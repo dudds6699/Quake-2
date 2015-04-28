@@ -4,6 +4,9 @@ sure if i'm going to do anything else with this.
 
 Just thought it would be cool if some one would need an easier way to start game engine programming now.
 
+To Get it to work ie play the game just copy your baseq2 folder in and make sure visual studio can find all the files 
+I haven't test a pull on another system so i might be missing something.
+
 #### Original Read Me Begins #####
 
 This is the complete source code for Quake 2, version 3.19, buildable with
