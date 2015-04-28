@@ -1,0 +1,1166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="dibinfo" Collapsed="true">
+    <Position X="36.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_dib.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01e7_1" Collapsed="true">
+    <Position X="36.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_dib.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d2_1" Collapsed="true">
+    <Position X="36.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>r_alias.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d2_2" Collapsed="true">
+    <Position X="36.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAQAQAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_alias.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_TargaHeader" Collapsed="true">
+    <Position X="36.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwQEQQCEAAAgACAAEAAABAAAAAAAAAA=</HashCode>
+      <FileName>r_image.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01dd_1" Collapsed="true">
+    <Position X="36.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAEAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>r_part.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01de_1" Collapsed="true">
+    <Position X="36.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAwAAAAABAAAAQAAAAIAgJYBAAAAAAA=</HashCode>
+      <FileName>r_poly.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01df_1" Collapsed="true">
+    <Position X="32.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAIBAAAQAAAAAIAAAAAAIIBAAAAAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01df_2" Collapsed="true">
+    <Position X="28.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAAAAAAAAAAAAAAAAAAAAAIBAAIAAAAAAEQAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01df_3" Collapsed="true">
+    <Position X="24.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01e0_1" Collapsed="true">
+    <Position X="20.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABIAAAAAAAA=</HashCode>
+      <FileName>r_rast.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="entity_s" Collapsed="true">
+    <Position X="16.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAwAAAACAAAACAAAAAAAAAAAAAAAAAAABAAQAQBIAAQ=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_1" Collapsed="true">
+    <Position X="12.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_2" Collapsed="true">
+    <Position X="8.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_3" Collapsed="true">
+    <Position X="4.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_4" Collapsed="true">
+    <Position X="0.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIBACAEBAEAAAQAQAhAAEBAQAAAAQAAAABgAEAAIAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_5" Collapsed="true">
+    <Position X="32.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCEAAAgAAACCAAAEAAAYAgEAEQgACQEAACAAEAABA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_6" Collapsed="true">
+    <Position X="32.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAgCAQAAIAAEAAIIAIAQAAIAAAQAAACAAAACAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sizebuf_s" Collapsed="true">
+    <Position X="32.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAACAAAAAAgAAAAAAAAAAAAAAAgAQAAAgAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_002f_3" Collapsed="true">
+    <Position X="32.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAAgAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_002f_4" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAQAAAQAAAAAACAAgAAAAAAgCgQAYBAAAABACEGA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_1" Collapsed="true">
+    <Position X="28.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgAAAAAE=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_2" Collapsed="true">
+    <Position X="24.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_3" Collapsed="true">
+    <Position X="28.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIACAIAAAAAAAIIAAAABBAAAAAAYACAAAQAEAAEgA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_4" Collapsed="true">
+    <Position X="20.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_5" Collapsed="true">
+    <Position X="28.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_6" Collapsed="true">
+    <Position X="16.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_7" Collapsed="true">
+    <Position X="28.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAEAABAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_8" Collapsed="true">
+    <Position X="12.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCDAAAAAAAAEAAABAAAAAmAAAAAACABAAABsAwA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_9" Collapsed="true">
+    <Position X="8.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAQAQAAAAAAIAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_10" Collapsed="true">
+    <Position X="28.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAIAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="miptex_s" Collapsed="true">
+    <Position X="4.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQQQAAAAAABAAAEACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_11" Collapsed="true">
+    <Position X="28.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAE=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_12" Collapsed="true">
+    <Position X="0.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_13" Collapsed="true">
+    <Position X="28.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAgAAAAAAAAAAAAABAAAAQAAAAAAAAAAABAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_14" Collapsed="true">
+    <Position X="24.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_15" Collapsed="true">
+    <Position X="24.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_16" Collapsed="true">
+    <Position X="24.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAAAwAAAAAAABAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="texinfo_s" Collapsed="true">
+    <Position X="24.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAACAAAAAQ=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_17" Collapsed="true">
+    <Position X="24.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_18" Collapsed="true">
+    <Position X="24.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgACMAAAAAAAAAEgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_19" Collapsed="true">
+    <Position X="20.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAJAAABgAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAAE=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_20" Collapsed="true">
+    <Position X="16.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_21" Collapsed="true">
+    <Position X="12.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_22" Collapsed="true">
+    <Position X="8.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_23" Collapsed="true">
+    <Position X="4.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0030_24" Collapsed="true">
+    <Position X="0.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01e9_1" Collapsed="true">
+    <Position X="20.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAAgMAIAEgAIAQAQACCBAAAAQoAQAAQAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_win.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="image_s" Collapsed="true">
+    <Position X="20.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAAUAQAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="vrect_s" Collapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAABAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_2" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQAQAAAAAAAAQAgAAAAAABAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_4" Collapsed="true">
+    <Position X="12.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAgEAAkAMABEAAIoAAABAhAAAAMAAAAACAABAAAIIA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_5" Collapsed="true">
+    <Position X="8.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAJYAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="finalvert_s" Collapsed="true">
+    <Position X="4.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAABJYAAAAAAAQ=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_6" Collapsed="true">
+    <Position X="0.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgoAABAAAAAAABAAAAAAECAAAAAAAAABACAEAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_7" Collapsed="true">
+    <Position X="16.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAQEAAAAAAAAIAQAAEAAAAAAAAAAAAAKAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_8" Collapsed="true">
+    <Position X="16.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="bedge_s" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="clipplane_s" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAIAAAAAAgAAAAAAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="surfcache_s" Collapsed="true">
+    <Position X="12.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAQIAAAAAAMAAAAIAAAAAQAAIAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="espan_s" Collapsed="true">
+    <Position X="8.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAABAAAAAAAAABIAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_9" Collapsed="true">
+    <Position X="4.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCIAoAAAAAAAEQAAAAAAAAIAFAAAIBAQAAEAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="surf_s" Collapsed="true">
+    <Position X="0.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAiQAAwAEAAAAAEAAAAQAAAAAAAAABAAAIAgAQ=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="edge_s" Collapsed="true">
+    <Position X="12.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAIAggAAAAAAAAAAAAAAAAAAAAAJAAAIAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01d8_10" Collapsed="true">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAQAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="swstate_s" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAgAABAAACAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01dc_1" Collapsed="true">
+    <Position X="8.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mplane_s" Collapsed="true">
+    <Position X="4.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAIAgAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01dc_2" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mtexinfo_s" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAEAAIAAAACAAAAAIAAAQ=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="msurface_s" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACCAEACEAAAAAAACAEggCAIAAAAAAAAAQ=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mnode_s" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAARAAAAAAAAABgAAAgCAAAAAAAAAgAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mleaf_s" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABAAAAAABAAAAEAAIAAAAAAACAAACAAAAAgAE=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="model_s" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAIABAwIgAgAAAGEAAAgIIBQAlAgAQDw4EACBAJAQ=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="dibinfo_t" Collapsed="true">
+    <Position X="36.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_dib.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="identitypalette_t" Collapsed="true">
+    <Position X="36.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_dib.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="aedge_t" Collapsed="true">
+    <Position X="36.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_alias.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="aliasbatchedtransformdata_t" Collapsed="true">
+    <Position X="36.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_alias.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="solidstate_t" Collapsed="true">
+    <Position X="36.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_bsp.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TargaHeader" Collapsed="true">
+    <Position X="36.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_image.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="partparms_t" Collapsed="true">
+    <Position X="36.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_part.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spanletvars_t" Collapsed="true">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_poly.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spanpackage_t" Collapsed="true">
+    <Position X="32.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="edgetable" Collapsed="true">
+    <Position X="28.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="adivtab_t" Collapsed="true">
+    <Position X="24.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_polyse.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="evert_t" Collapsed="true">
+    <Position X="20.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_rast.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="entity_t" Collapsed="true">
+    <Position X="16.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dlight_t" Collapsed="true">
+    <Position X="12.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="particle_t" Collapsed="true">
+    <Position X="8.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lightstyle_t" Collapsed="true">
+    <Position X="4.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="refdef_t" Collapsed="true">
+    <Position X="0.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="refexport_t" Collapsed="true">
+    <Position X="32.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="refimport_t" Collapsed="true">
+    <Position X="32.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GetRefAPI_t" Collapsed="true">
+    <Position X="40.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\client\ref.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="byte" Collapsed="true">
+    <Position X="39" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\game\q_shared.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sizebuf_t" Collapsed="true">
+    <Position X="32.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="xcommand_t" Collapsed="true">
+    <Position X="40.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="netadrtype_t" Collapsed="true">
+    <Position X="32.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="netsrc_t" Collapsed="true">
+    <Position X="32.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="netadr_t" Collapsed="true">
+    <Position X="32.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="netchan_t" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dpackfile_t" Collapsed="true">
+    <Position X="28.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dpackheader_t" Collapsed="true">
+    <Position X="24.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pcx_t" Collapsed="true">
+    <Position X="28.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dstvert_t" Collapsed="true">
+    <Position X="20.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dtriangle_t" Collapsed="true">
+    <Position X="28.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dtrivertx_t" Collapsed="true">
+    <Position X="16.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="daliasframe_t" Collapsed="true">
+    <Position X="28.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dmdl_t" Collapsed="true">
+    <Position X="12.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dsprframe_t" Collapsed="true">
+    <Position X="8.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dsprite_t" Collapsed="true">
+    <Position X="28.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="miptex_t" Collapsed="true">
+    <Position X="4.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lump_t" Collapsed="true">
+    <Position X="28.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dheader_t" Collapsed="true">
+    <Position X="0.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dmodel_t" Collapsed="true">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dvertex_t" Collapsed="true">
+    <Position X="24.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dplane_t" Collapsed="true">
+    <Position X="24.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dnode_t" Collapsed="true">
+    <Position X="24.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="texinfo_t" Collapsed="true">
+    <Position X="24.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dedge_t" Collapsed="true">
+    <Position X="24.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dface_t" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dleaf_t" Collapsed="true">
+    <Position X="20.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dbrushside_t" Collapsed="true">
+    <Position X="16.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dbrush_t" Collapsed="true">
+    <Position X="12.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dvis_t" Collapsed="true">
+    <Position X="8.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="dareaportal_t" Collapsed="true">
+    <Position X="4.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="darea_t" Collapsed="true">
+    <Position X="0.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qfiles.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="swwstate_t" Collapsed="true">
+    <Position X="20.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\win32\rw_win.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="imagetype_t" Collapsed="true">
+    <Position X="20.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="image_t" Collapsed="true">
+    <Position X="20.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pixel_t" Collapsed="true">
+    <Position X="39" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="vrect_t" Collapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="viddef_t" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="rserr_t" Collapsed="true">
+    <Position X="16.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="oldrefdef_t" Collapsed="true">
+    <Position X="12.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="emitpoint_t" Collapsed="true">
+    <Position X="8.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="finalvert_t" Collapsed="true">
+    <Position X="4.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="affinetridesc_t" Collapsed="true">
+    <Position X="0.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="drawsurf_t" Collapsed="true">
+    <Position X="16.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="alight_t" Collapsed="true">
+    <Position X="16.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="bedge_t" Collapsed="true">
+    <Position X="16.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="clipplane_t" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="surfcache_t" Collapsed="true">
+    <Position X="12.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="espan_t" Collapsed="true">
+    <Position X="8.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="polydesc_t" Collapsed="true">
+    <Position X="4.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="surf_t" Collapsed="true">
+    <Position X="0.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="edge_t" Collapsed="true">
+    <Position X="12.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="aliastriangleparms_t" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="swstate_t" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="mvertex_t" Collapsed="true">
+    <Position X="8.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="mplane_t" Collapsed="true">
+    <Position X="4.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="medge_t" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="mtexinfo_t" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="msurface_t" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="mnode_t" Collapsed="true">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="mleaf_t" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="modtype_t" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="model_t" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_01d3_1" Collapsed="true">
+    <Position X="36.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>r_bsp.c</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="svc_ops_e" Collapsed="true">
+    <Position X="40.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SBIAABAAIAAEBIAgAgAQUAUBAAAAAAABhAACAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="clc_ops_e" Collapsed="true">
+    <Position X="39" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAAEQAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002f_1" Collapsed="true">
+    <Position X="32.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQAAAAABAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_002f_2" Collapsed="true">
+    <Position X="32.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABA=</HashCode>
+      <FileName>D:\Quake2\Quake-2\qcommon\qcommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01d8_1" Collapsed="true">
+    <Position X="20.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAGAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01d8_3" Collapsed="true">
+    <Position X="16.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoAA=</HashCode>
+      <FileName>r_local.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01dc_3" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAABACAAAAA=</HashCode>
+      <FileName>r_model.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

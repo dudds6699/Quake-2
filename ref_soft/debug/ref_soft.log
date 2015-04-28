@@ -1,53 +1,7 @@
-﻿Build started 4/27/2015 7:17:04 PM.
+﻿Build started 4/27/2015 8:06:01 PM.
      1>Project "D:\Quake2\Quake-2\ref_soft\ref_soft.vcxproj" on node 2 (Build target(s)).
-     1>CustomBuild:
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_aclipa.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_draw16.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_drawa.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_edgea.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_polysa.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_scana.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_spr8.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_surf8.asm
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Microsoft (R) Macro Assembler Version 12.00.31101.0
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         Performing Custom Build Tools
-          Assembling: D:\Quake2\Quake-2\ref_soft\r_varsa.asm
-       ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _WINDLL /Gm /EHsc /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\debug\\" /Fd".\debug\vc120.pdb" /FR".\debug\\" /Gd /TC /analyze- /errorReport:prompt ..\game\q_shared.c ..\win32\q_shwin.c ..\win32\rw_ddraw.c ..\win32\rw_dib.c ..\win32\rw_imp.c r_aclip.c r_alias.c r_bsp.c r_draw.c r_edge.c r_image.c r_light.c r_main.c r_misc.c r_model.c r_part.c r_poly.c r_polyse.c r_rast.c r_scan.c r_sprite.c r_surf.c
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _WINDLL /Gm /EHsc /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\debug\\" /Fd".\debug\vc120.pdb" /FR".\debug\\" /Gd /TC /analyze- /errorReport:prompt ..\game\q_shared.c ..\win32\q_shwin.c ..\win32\rw_ddraw.c ..\win32\rw_dib.c ..\win32\rw_imp.c r_aclip.c r_alias.c r_bsp.c r_draw.c r_edge.c r_image.c r_light.c r_main.c r_misc.c r_model.c r_part.c r_poly.c r_polyse.c r_rast.c r_scan.c r_sprite.c r_surf.c
          r_surf.c
          r_sprite.c
          r_scan.c
@@ -106,8 +60,7 @@
                  d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
          Generating Code...
        Link:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\debug\ref_soft.dll" /INCREMENTAL:NO /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc /DEF:".\ref_soft.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\..\debug\ref_soft.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\debug\ref_soft.lib" /MACHINE:X86 /SAFESEH /DLL .\..\debug\\.obj
-         .\debug\q_shared.obj
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\debug\ref_soft.dll" /INCREMENTAL:NO /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc /DEF:".\ref_soft.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\..\debug\ref_soft.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\debug\ref_soft.lib" /MACHINE:X86 /SAFESEH /DLL .\debug\q_shared.obj
          .\debug\q_shwin.obj
          .\debug\rw_ddraw.obj
          .\debug\rw_dib.obj
@@ -129,9 +82,13 @@
          .\debug\r_scan.obj
          .\debug\r_sprite.obj
          .\debug\r_surf.obj
-     1>LINK : fatal error LNK1181: cannot open input file '.\..\debug\\.obj'
-     1>Done Building Project "D:\Quake2\Quake-2\ref_soft\ref_soft.vcxproj" (Build target(s)) -- FAILED.
+     1>q_shared.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+            Creating library .\..\debug\ref_soft.lib and object .\..\debug\ref_soft.exp
+         ref_soft.vcxproj -> D:\Quake2\Quake-2\ref_soft\.\..\debug\ref_soft.dll
+       BscMake:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o".\..\debug\ref_soft.bsc" .\debug\q_shared.sbr .\debug\q_shwin.sbr .\debug\rw_ddraw.sbr .\debug\rw_dib.sbr .\debug\rw_imp.sbr .\debug\r_aclip.sbr .\debug\r_alias.sbr .\debug\r_bsp.sbr .\debug\r_draw.sbr .\debug\r_edge.sbr .\debug\r_image.sbr .\debug\r_light.sbr .\debug\r_main.sbr .\debug\r_misc.sbr .\debug\r_model.sbr .\debug\r_part.sbr .\debug\r_poly.sbr .\debug\r_polyse.sbr .\debug\r_rast.sbr .\debug\r_scan.sbr .\debug\r_sprite.sbr .\debug\r_surf.sbr
+     1>Done Building Project "D:\Quake2\Quake-2\ref_soft\ref_soft.vcxproj" (Build target(s)).
 
-Build FAILED.
+Build succeeded.
 
-Time Elapsed 00:00:05.91
+Time Elapsed 00:00:06.05

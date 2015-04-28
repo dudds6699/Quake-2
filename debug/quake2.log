@@ -1,7 +1,7 @@
-﻿Build started 4/27/2015 7:20:52 PM.
+﻿Build started 4/27/2015 8:06:07 PM.
      1>Project "D:\Quake2\Quake-2\quake2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /Gm- /EHsc /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\debug\\" /Fd".\debug\vc120.pdb" /FR".\debug\\" /Gd /TC /analyze- /errorReport:prompt client\cl_cin.c client\cl_ents.c client\cl_fx.c client\cl_input.c client\cl_inv.c client\cl_main.c client\cl_newfx.c client\cl_parse.c client\cl_pred.c client\cl_scrn.c client\cl_tent.c client\cl_view.c client\console.c client\keys.c client\menu.c client\qmenu.c client\snd_dma.c client\snd_mem.c client\snd_mix.c client\x86.c game\m_flash.c game\q_shared.c qcommon\cmd.c qcommon\cmodel.c qcommon\common.c qcommon\crc.c qcommon\cvar.c qcommon\files.c qcommon\md4.c qcommon\net_chan.c qcommon\pmove.c server\sv_ccmds.c server\sv_ents.c server\sv_game.c server\sv_init.c server\sv_main.c server\sv_send.c server\sv_user.c server\sv_world.c win32\cd_win.c win32\conproc.c win32\in_win.c win32\net_wins.c win32\q_shwin.c win32\snd_win.c win32\sys_win.c win32\vid_dll.c win32\vid_menu.c
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /Gm- /EHsc /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\debug\\" /Fd".\debug\vc120.pdb" /FR".\debug\\" /Gd /TC /analyze- /errorReport:prompt client\cl_cin.c client\cl_ents.c client\cl_fx.c client\cl_input.c client\cl_inv.c client\cl_main.c client\cl_newfx.c client\cl_parse.c client\cl_pred.c client\cl_scrn.c client\cl_tent.c client\cl_view.c client\console.c client\keys.c client\menu.c client\qmenu.c client\snd_dma.c client\snd_mem.c client\snd_mix.c client\x86.c game\m_flash.c game\q_shared.c qcommon\cmd.c qcommon\cmodel.c qcommon\common.c qcommon\crc.c qcommon\cvar.c qcommon\files.c qcommon\md4.c qcommon\net_chan.c qcommon\pmove.c server\sv_ccmds.c server\sv_ents.c server\sv_game.c server\sv_init.c server\sv_main.c server\sv_send.c server\sv_user.c server\sv_world.c win32\cd_win.c win32\conproc.c win32\in_win.c win32\net_wins.c win32\q_shwin.c win32\snd_win.c win32\sys_win.c win32\vid_dll.c win32\vid_menu.c
          cl_cin.c
          cl_ents.c
      1>d:\quake2\quake-2\client\cl_ents.c(797): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -586,4 +586,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:12.75
+Time Elapsed 00:00:10.74

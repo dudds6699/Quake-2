@@ -4,12 +4,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quake2", "quake2.vcxproj", "{6B374DAF-3C99-4866-84EA-61A3AD473859}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D09F6B0B-9DB6-4C4B-A26B-7253C8077E39} = {D09F6B0B-9DB6-4C4B-A26B-7253C8077E39}
+		{5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041} = {5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041}
+		{F5A8EC4F-A097-49A4-BF08-294E23D34F25} = {F5A8EC4F-A097-49A4-BF08-294E23D34F25}
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2} = {E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctf", "ctf\ctf.vcxproj", "{F5A8EC4F-A097-49A4-BF08-294E23D34F25}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game\game.vcxproj", "{D09F6B0B-9DB6-4C4B-A26B-7253C8077E39}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ref_gl", "ref_gl\ref_gl.vcxproj", "{5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ref_soft", "ref_soft\ref_soft.vcxproj", "{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,14 @@ Global
 		{5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041}.Release Alpha|Win32.Build.0 = Release Alpha|Win32
 		{5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041}.Release|Win32.ActiveCfg = Release|Win32
 		{5EBCDE4B-C7FB-471B-BCA6-FFCFB53B9041}.Release|Win32.Build.0 = Release|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Debug Alpha|Win32.ActiveCfg = Debug Alpha|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Debug Alpha|Win32.Build.0 = Debug Alpha|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Debug|Win32.Build.0 = Debug|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Release Alpha|Win32.ActiveCfg = Release Alpha|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Release Alpha|Win32.Build.0 = Release Alpha|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Release|Win32.ActiveCfg = Release|Win32
+		{E39E5863-BCB5-4B9F-8E7E-2760080DC1D2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
