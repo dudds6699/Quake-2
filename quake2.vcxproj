@@ -472,6 +472,661 @@
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release Alpha|Win32'">win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="baseq2\config.cfg">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\gamex86.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\maps.lst">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\pak0.pak">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\pak1.pak">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\pak2.pak">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\a_grenades.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_bfg.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_blaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_chainfist.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_chaingun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_disrupt.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_etfrifle.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_glauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_grapple.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_hyperblaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_machinegun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_phalanx.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_plasma.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_plauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_railgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_ripper.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_rlauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_shotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\crakhor\w_sshotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\a_grenades.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\oni911.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\oni911_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\ps9000.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\ps9000_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\tris.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\tyr574.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\tyr574_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\weapon.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\weapon.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\weapon.pcx.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_bfg.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_blaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_chainfist.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_chaingun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_disrupt.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_etfrifle.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_glauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_grapple.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_hyperblaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_machinegun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_phalanx.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_plasma.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_plauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_railgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_ripper.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_rlauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_shotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\cyborg\w_sshotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\athena.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\athena_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\a_grenades.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\brianna.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\brianna_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\cobalt.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\cobalt_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\ensign.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\ensign_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\jezebel.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\jezebel_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\jungle.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\jungle_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\lotus.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\lotus_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\stiletto.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\stiletto_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\tris.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\venus.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\venus_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\voodoo.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\voodoo_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\weapon.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\weapon.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_bfg.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_blaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_chainfist.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_chaingun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_disrupt.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_etfrifle.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_glauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_grapple.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_hyperblaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_machinegun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_phalanx.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_plasma.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_plauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_railgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_ripper.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_rlauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_shotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\female\w_sshotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\a_grenades.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\cipher.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\cipher_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\claymore.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\claymore_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\flak.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\flak_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\grunt.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\grunt_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\howitzer.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\howitzer_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\major.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\major_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\nightops.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\nightops_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\pointman.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\pointman_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\psycho.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\psycho_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\rampage.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\rampage_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\razor.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\razor_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\recon.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\recon_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\scout.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\scout_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\sniper.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\sniper_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\tris.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\viper.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\viper_i.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\weapon.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\weapon.pcx">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_bfg.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_blaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_chainfist.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_chaingun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_disrupt.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_etfrifle.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_glauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_grapple.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_hyperblaster.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_machinegun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_phalanx.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_plasma.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_plauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_railgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_ripper.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_rlauncher.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_shotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\players\male\w_sshotgun.md2">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\save\save0\game.ssv">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\save\save0\server.ssv">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\end.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou1_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou2_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou3_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou4_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou5_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou6_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou7_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\eou8_.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\idlog.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="baseq2\video\ntro.cin">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="baseq2\players\cyborg\bump1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\death1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\death2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\death3.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\death4.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\drown1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\fall1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\fall2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\gurp1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\gurp2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\jump1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain100_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain100_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain25_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain25_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain50_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain50_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain75_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\cyborg\pain75_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\death1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\death2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\death3.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\death4.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\drown.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\fall1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\fall2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\gurp1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\gurp2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\jump1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain100_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain100_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain25_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain25_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain50_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain50_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain75_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\female\pain75_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\bump1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\death1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\death2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\death3.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\death4.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\drown1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\fall1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\fall2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\gurp1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\gurp2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\jump1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain100_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain100_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain25_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain25_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain50_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain50_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain75_1.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+    <Media Include="baseq2\players\male\pain75_2.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
