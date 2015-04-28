@@ -1,1 +1,5 @@
-../debug/
+/debug/
+/ctf/debug/
+/game/debug/
+/ref_gl/debug/
+/ref_soft/debug/
